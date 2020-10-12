@@ -1,0 +1,7 @@
+in Support vector machines SVM, we use kernel function
+for 2-D NON-LINEAR DATA. we convert the data to the higher dimension 3-D and divide into classes using a plane.
+(division boundary?)
+
+preprocessing is necessary bcoz sometimes, the datasets we are using might have some text strings. which are strictly
+not allowed in ML. Hence Preprocessing encodes all the data in the necessary format.
+or we use dummy variables. such as 0, 1 or NO, YES respectively.

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca6c6721-8730-427a-977a-ed77415b9da9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1W7VuTZAuwnEGwIt4ijX6HzcNRM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workstation\PycharmProjects\Machine Learning Workspace\supervised\classification\datasets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workstation\PycharmProjects\Machine Learning Workspace\lab_programs" />
+      <recent name="C:\workstation\PycharmProjects\Machine Learning Workspace\lab_programs\datasets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.thompson_sampling">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Machine Learning Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="k_means_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervised" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised/k_means_clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear_discriminant_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dimensionality_reduction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dimensionality_reduction/linear_discriminant_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ml_slots_pockets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_slots_pockets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thompson_sampling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reinforcement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reinforcement/thompson_sampling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upper_confidence_bound" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reinforcement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reinforcement/upper_confidence_bound.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.thompson_sampling" />
+        <item itemvalue="Python.linear_discriminant_analysis" />
+        <item itemvalue="Python.ml_slots_pockets" />
+        <item itemvalue="Python.upper_confidence_bound" />
+        <item itemvalue="Python.k_means_clustering" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca6c6721-8730-427a-977a-ed77415b9da9" name="Default Changelist" comment="" />
+      <created>1578500842705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578500842705</updated>
+      <workItem from="1578500843846" duration="256000" />
+      <workItem from="1578501141254" duration="28000" />
+      <workItem from="1581936806166" duration="6190000" />
+      <workItem from="1582089009602" duration="8000" />
+      <workItem from="1582098951409" duration="115000" />
+      <workItem from="1582357114896" duration="2680000" />
+      <workItem from="1582360695920" duration="6000" />
+      <workItem from="1582365022197" duration="29000" />
+      <workItem from="1582365081234" duration="7514000" />
+      <workItem from="1582396681279" duration="19000" />
+      <workItem from="1582429732082" duration="2228000" />
+      <workItem from="1582442496692" duration="4065000" />
+      <workItem from="1582522837115" duration="5552000" />
+      <workItem from="1582645069675" duration="29000" />
+      <workItem from="1582680539984" duration="2668000" />
+      <workItem from="1582725524321" duration="3728000" />
+      <workItem from="1582731813579" duration="252000" />
+      <workItem from="1582739029924" duration="1498000" />
+      <workItem from="1582741545259" duration="233000" />
+      <workItem from="1582777108264" duration="3548000" />
+      <workItem from="1582962225551" duration="110000" />
+      <workItem from="1583150911101" duration="2711000" />
+      <workItem from="1583224097502" duration="3192000" />
+      <workItem from="1583234920236" duration="4995000" />
+      <workItem from="1583290837535" duration="28000" />
+      <workItem from="1583291053655" duration="10115000" />
+      <workItem from="1583389551884" duration="551000" />
+      <workItem from="1583390128022" duration="4334000" />
+      <workItem from="1583484864972" duration="9042000" />
+      <workItem from="1583559663768" duration="6116000" />
+      <workItem from="1583575189744" duration="1835000" />
+      <workItem from="1583588201777" duration="2191000" />
+      <workItem from="1583635327043" duration="9402000" />
+      <workItem from="1583758304150" duration="4321000" />
+      <workItem from="1583764562017" duration="12041000" />
+      <workItem from="1583817955562" duration="539000" />
+      <workItem from="1583847276528" duration="5331000" />
+      <workItem from="1583908239046" duration="1021000" />
+      <workItem from="1584250421402" duration="1195000" />
+      <workItem from="1584276822689" duration="344000" />
+      <workItem from="1584277560319" duration="1431000" />
+      <workItem from="1584279974670" duration="355000" />
+      <workItem from="1584291603346" duration="235000" />
+      <workItem from="1584296115493" duration="9029000" />
+      <workItem from="1584338549060" duration="2088000" />
+      <workItem from="1584365566513" duration="7247000" />
+      <workItem from="1584425979931" duration="1362000" />
+      <workItem from="1584438295201" duration="257000" />
+      <workItem from="1584450179899" duration="3914000" />
+      <workItem from="1584467798732" duration="4647000" />
+      <workItem from="1584514518074" duration="6113000" />
+      <workItem from="1584611451053" duration="8655000" />
+      <workItem from="1584715497036" duration="694000" />
+      <workItem from="1584760133155" duration="7067000" />
+      <workItem from="1584859046144" duration="2822000" />
+      <workItem from="1584866948781" duration="2678000" />
+      <workItem from="1584941559599" duration="595000" />
+      <workItem from="1584954654261" duration="5879000" />
+      <workItem from="1584970898472" duration="3411000" />
+      <workItem from="1585025355914" duration="4753000" />
+      <workItem from="1585055442005" duration="5306000" />
+      <workItem from="1585080403444" duration="2885000" />
+      <workItem from="1585117145732" duration="18443000" />
+      <workItem from="1585212016661" duration="8565000" />
+      <workItem from="1585249197622" duration="1447000" />
+      <workItem from="1585279930092" duration="10391000" />
+      <workItem from="1585334723016" duration="1253000" />
+      <workItem from="1585366827706" duration="24489000" />
+      <workItem from="1585452760141" duration="8375000" />
+      <workItem from="1585466900081" duration="112000" />
+      <workItem from="1585498508646" duration="8141000" />
+      <workItem from="1585509079602" duration="6404000" />
+      <workItem from="1585539292162" duration="1946000" />
+      <workItem from="1585753899964" duration="39000" />
+      <workItem from="1585753951490" duration="30000" />
+      <workItem from="1585762197659" duration="2373000" />
+      <workItem from="1585979168250" duration="741000" />
+      <workItem from="1586277685812" duration="128000" />
+      <workItem from="1586430527345" duration="7057000" />
+      <workItem from="1586496210205" duration="3944000" />
+      <workItem from="1586521877841" duration="679000" />
+      <workItem from="1586612857062" duration="465000" />
+      <workItem from="1586613683592" duration="666000" />
+      <workItem from="1586753661695" duration="17000" />
+      <workItem from="1586772526141" duration="612000" />
+      <workItem from="1586803050264" duration="1662000" />
+      <workItem from="1586823827843" duration="5000" />
+      <workItem from="1588863524799" duration="88000" />
+      <workItem from="1588872719910" duration="1745000" />
+      <workItem from="1588905632249" duration="1279000" />
+      <workItem from="1588919998360" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reinforcement/upper_confidence_bound.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Machine_Learning_Workspace$_02_.coverage" NAME="_02_ Coverage Results" MODIFIED="1582729037689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sci-kit-learn" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Workspace$_02_share_predict2.coverage" NAME="_02_share_predict2 Coverage Results" MODIFIED="1583297190271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sci-kit-learn" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Workspace$polynomial_regression.coverage" NAME="polynomial_regression Coverage Results" MODIFIED="1584516262600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/supervised/regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Workspace$thompson_sampling.coverage" NAME="thompson_sampling Coverage Results" MODIFIED="1586497901908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reinforcement" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Workspace$ml_slots_pockets.coverage" NAME="ml_slots_pockets Coverage Results" MODIFIED="1585508454101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
